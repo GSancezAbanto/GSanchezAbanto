@@ -50,6 +50,12 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,php,cs,cpp,mysql,mongodb,git,github,docker,vscode,idea,eclipse,androidstudio&perline=9)](https://skillicons.dev)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ---
 
 ⭐ Siempre buscando aprender, crear y mejorar como desarrollador.
