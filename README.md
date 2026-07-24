@@ -22,8 +22,7 @@
 ---
 
 # Tecnologías conocidas 👨🏻‍💻
-# Tecnologías conocidas 👨🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,dotnet,cs,cpp,php,js,html,css,mysql,mongodb,sqlite,git,github,docker,postman,vscode,idea,eclipse,androidstudio,linux&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,dotnet,cs,cpp,php,js,html,css,mysql,mongodb,sqlite,git,github,docker,postman,vscode,visualstudio,idea,eclipse,androidstudio&theme=dark&perline=7)](https://skillicons.dev)
 
 ⭐ Siempre buscando aprender, crear y mejorar como desarrollador.
