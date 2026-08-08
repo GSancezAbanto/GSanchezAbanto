@@ -25,7 +25,7 @@
 
 ### 💻 Lenguajes y Backend
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,dotnet,cs,cpp,php,js,html,css&theme=dark&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,dotnet,cs,cpp,js,html,css&theme=dark&perline=9)](https://skillicons.dev)
 
 ### 🗄️ Bases de Datos
 
